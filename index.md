@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 # Welcome to My Homepage
 
 This is my personal homepage. Here you can find:
